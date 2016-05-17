@@ -1,29 +1,41 @@
-name: Security Bunnies
-favicon: null
-layout_spectrum: 0.6253119306638837
-typography_spectrum: 0.4262053808197379
 title: Information Security for all the bunnies who want to stay safe online
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.4999842676334083
+  brandStrength: 0.4361047765705734
+  rhythmicContrast: 0.7060691537335515
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.43610477657057345
   lightness: 0.931588567327708
-  saturation: 0.4999842676334083
-  rhythmicContrast: 0.7060691537335515
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Security Bunnies
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.4262053808197379
+layout_spectrum: 0.9957447
