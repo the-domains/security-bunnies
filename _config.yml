@@ -13,7 +13,7 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.8339599
+  saturation: 0
   brandStrength: 0.9148936
   lightness: 0
   brandColors:
@@ -22,7 +22,7 @@ color:
     - '#FFFFFE'
     - '#111111'
     - '#B3D8DC'
-  rhythmicContrast: 0.8195488
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Security Bunnies
+favicon: null
 opengraph:
   image: null
   type: null
