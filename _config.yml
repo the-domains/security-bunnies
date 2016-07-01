@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Security Bunnies
 favicon: null
+name: Security Bunnies
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.7431078
-layout_spectrum: 0.01441103
+layout_spectrum: 0.1685464
